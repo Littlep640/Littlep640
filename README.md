@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Littlep640/Littlep640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on school projects.
 - 🌱 I’m currently learning a little bit of javascripts and diving deeper into python and java.
 - 👯 I’m looking to collaborate on projects if you would like my help.
@@ -12,4 +7,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about OSRS.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am red green colorblind.
+
+<!--
+**Littlep640/Littlep640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 -->
