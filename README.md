@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on school projects.
-- 🌱 I’m currently learning a little bit of javascripts and diving deeper into python and java.
+- 🌱 I’m currently learning a little bit of javascript and diving deeper into python.
 - 👯 I’m looking to collaborate on projects if you would like my help.
 - 🤔 I’m looking for help with securing an internship.
 - 💬 Ask me about OSRS.
