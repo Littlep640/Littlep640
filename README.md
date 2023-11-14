@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on school projects.
 - 🌱 I’m currently learning about operating systems and software engineering principles.
 - 👯 I’m looking to collaborate on projects if you would like my help.
-- 🤔 I’m looking for help with securing an internship.
+- 🤔 I’m looking for help with securing an internship or job.
 - 💬 Ask me about OSRS.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am red green colorblind.
