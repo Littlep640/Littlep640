@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on school projects.
-- 🌱 I’m currently learning about operating systems and software engineering principles.
+- 🌱 I’m currently learning about web mining and software engineering practice.
 - 👯 I’m looking to collaborate on projects if you would like my help.
 - 🤔 I’m looking for help with securing an internship or job.
 - 💬 Ask me about OSRS.
